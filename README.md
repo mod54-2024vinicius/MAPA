@@ -1,2 +1,4 @@
 # MAPA
 Atividade MAPA
+
+A ramificação possibilita o trabalho simultâneo em diversas versões de um repositório, permitindo que modificações sejam testadas e aprimoradas sem afetar o código principal. Normalmente, o repositório tem uma ramificação principal identificada como "main". Ao estabelecer uma nova ramificação a partir da principal, você reproduz o estado presente do "main". Isso possibilita a criação de novos recursos ou a correção de erros de forma independente, preservando a estabilidade do código principal. Se você fizer mudanças no "main" enquanto trabalha na sua cópia, essas modificações podem ser incorporadas à sua ramificação através de procedimentos como "merge" ou "rebase". Assim, a utilização de ramificações promove a cooperação entre grupos, permitindo que várias pessoas atuem em diversas funcionalidades sem gerar conflitos no código.
